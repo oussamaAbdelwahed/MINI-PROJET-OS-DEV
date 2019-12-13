@@ -1,0 +1,1 @@
+chaque ligne du ficher csv contient respectivement : nom proc et temps d'arrivé et temps d'execution estimé et priorité
